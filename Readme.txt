@@ -1,2 +1,3 @@
-�����ɶȻ�е�۶�����ת
-�����˶�ѧ��켣�滮
+Fixed-point_rotation_of_manipulator
+六自由度机械臂定点旋转
+正逆运动学与轨迹规划
